@@ -1,0 +1,41 @@
+[ {
+  "name" : "koraidon",
+  "abilities" : [ "orichalcum-pulse" ],
+  "createdAt" : "2026-02-13T00:12:29.379104676-03:00"
+}, {
+  "name" : "minior-orange-meteor",
+  "abilities" : [ "shields-down" ],
+  "createdAt" : "2026-02-13T00:12:29.682005085-03:00"
+}, {
+  "name" : "abra",
+  "abilities" : [ "synchronize", "inner-focus", "magic-guard" ],
+  "createdAt" : "2026-02-13T00:12:30.222848154-03:00"
+}, {
+  "name" : "torchic",
+  "abilities" : [ "blaze", "speed-boost" ],
+  "createdAt" : "2026-02-13T00:12:30.606514637-03:00"
+}, {
+  "name" : "rattata",
+  "abilities" : [ "run-away", "guts", "hustle" ],
+  "createdAt" : "2026-02-13T00:12:31.238308397-03:00"
+}, {
+  "name" : "nymble",
+  "abilities" : [ "swarm", "tinted-lens" ],
+  "createdAt" : "2026-02-13T00:12:31.486408486-03:00"
+}, {
+  "name" : "samurott-hisui",
+  "abilities" : [ "torrent", "sharpness" ],
+  "createdAt" : "2026-02-13T00:12:31.815217714-03:00"
+}, {
+  "name" : "orbeetle",
+  "abilities" : [ "swarm", "frisk", "telepathy" ],
+  "createdAt" : "2026-02-13T00:12:32.43725226-03:00"
+}, {
+  "name" : "amaura",
+  "abilities" : [ "refrigerate", "snow-warning" ],
+  "createdAt" : "2026-02-13T00:12:32.833258912-03:00"
+}, {
+  "name" : "salamence-mega",
+  "abilities" : [ "aerilate" ],
+  "createdAt" : "2026-02-13T00:12:33.336233786-03:00"
+} ]

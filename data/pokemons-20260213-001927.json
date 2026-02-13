@@ -1,0 +1,41 @@
+[ {
+  "name" : "zapdos",
+  "abilities" : [ "pressure", "static" ],
+  "createdAt" : "2026-02-13T00:19:22.2771764-03:00"
+}, {
+  "name" : "lucario",
+  "abilities" : [ "steadfast", "inner-focus", "justified" ],
+  "createdAt" : "2026-02-13T00:19:23.615074252-03:00"
+}, {
+  "name" : "basculin-white-striped",
+  "abilities" : [ "rattled", "adaptability", "mold-breaker" ],
+  "createdAt" : "2026-02-13T00:19:24.172666536-03:00"
+}, {
+  "name" : "delphox",
+  "abilities" : [ "blaze", "magician" ],
+  "createdAt" : "2026-02-13T00:19:24.698335307-03:00"
+}, {
+  "name" : "morelull",
+  "abilities" : [ "illuminate", "effect-spore", "rain-dish" ],
+  "createdAt" : "2026-02-13T00:19:25.809174862-03:00"
+}, {
+  "name" : "roggenrola",
+  "abilities" : [ "sturdy", "weak-armor", "sand-force" ],
+  "createdAt" : "2026-02-13T00:19:26.237863489-03:00"
+}, {
+  "name" : "purrloin",
+  "abilities" : [ "limber", "unburden", "prankster" ],
+  "createdAt" : "2026-02-13T00:19:26.770850898-03:00"
+}, {
+  "name" : "chandelure-mega",
+  "abilities" : [ ],
+  "createdAt" : "2026-02-13T00:19:27.022146261-03:00"
+}, {
+  "name" : "teddiursa",
+  "abilities" : [ "pickup", "quick-feet", "honey-gather" ],
+  "createdAt" : "2026-02-13T00:19:27.516726564-03:00"
+}, {
+  "name" : "wynaut",
+  "abilities" : [ "shadow-tag", "telepathy" ],
+  "createdAt" : "2026-02-13T00:19:27.883630362-03:00"
+} ]

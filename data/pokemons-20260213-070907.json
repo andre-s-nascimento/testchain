@@ -1,0 +1,41 @@
+[ {
+  "name" : "altaria",
+  "abilities" : [ "natural-cure", "cloud-nine" ],
+  "createdAt" : "2026-02-13T07:09:04.561599018-03:00"
+}, {
+  "name" : "nidoqueen",
+  "abilities" : [ "poison-point", "rivalry", "sheer-force" ],
+  "createdAt" : "2026-02-13T07:09:05.00610659-03:00"
+}, {
+  "name" : "dottler",
+  "abilities" : [ "swarm", "compound-eyes", "telepathy" ],
+  "createdAt" : "2026-02-13T07:09:05.465320585-03:00"
+}, {
+  "name" : "brionne",
+  "abilities" : [ "torrent", "liquid-voice" ],
+  "createdAt" : "2026-02-13T07:09:05.932532157-03:00"
+}, {
+  "name" : "bastiodon",
+  "abilities" : [ "sturdy", "soundproof" ],
+  "createdAt" : "2026-02-13T07:09:06.360410223-03:00"
+}, {
+  "name" : "gholdengo",
+  "abilities" : [ "good-as-gold" ],
+  "createdAt" : "2026-02-13T07:09:06.403455044-03:00"
+}, {
+  "name" : "greninja-ash",
+  "abilities" : [ "battle-bond" ],
+  "createdAt" : "2026-02-13T07:09:06.825793228-03:00"
+}, {
+  "name" : "scizor-mega",
+  "abilities" : [ "technician" ],
+  "createdAt" : "2026-02-13T07:09:06.862878894-03:00"
+}, {
+  "name" : "regice",
+  "abilities" : [ "clear-body", "ice-body" ],
+  "createdAt" : "2026-02-13T07:09:07.396626129-03:00"
+}, {
+  "name" : "farfetchd",
+  "abilities" : [ "keen-eye", "inner-focus", "defiant" ],
+  "createdAt" : "2026-02-13T07:09:07.98289264-03:00"
+} ]

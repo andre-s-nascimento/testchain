@@ -1,0 +1,41 @@
+[ {
+  "name" : "articuno",
+  "abilities" : [ "pressure", "snow-cloak" ],
+  "createdAt" : "2026-02-13T00:24:53.46803055-03:00"
+}, {
+  "name" : "lycanroc-midday",
+  "abilities" : [ "keen-eye", "sand-rush", "steadfast" ],
+  "createdAt" : "2026-02-13T00:24:54.649958987-03:00"
+}, {
+  "name" : "beldum",
+  "abilities" : [ "clear-body", "light-metal" ],
+  "createdAt" : "2026-02-13T00:24:55.017853746-03:00"
+}, {
+  "name" : "regigigas",
+  "abilities" : [ "slow-start" ],
+  "createdAt" : "2026-02-13T00:24:55.727704263-03:00"
+}, {
+  "name" : "pikachu-starter",
+  "abilities" : [ "static", "lightning-rod" ],
+  "createdAt" : "2026-02-13T00:24:56.086778971-03:00"
+}, {
+  "name" : "dragalge-mega",
+  "abilities" : [ ],
+  "createdAt" : "2026-02-13T00:24:57.088218262-03:00"
+}, {
+  "name" : "scorbunny",
+  "abilities" : [ "blaze", "libero" ],
+  "createdAt" : "2026-02-13T00:24:57.401297413-03:00"
+}, {
+  "name" : "enamorus-therian",
+  "abilities" : [ "overcoat" ],
+  "createdAt" : "2026-02-13T00:24:57.712801561-03:00"
+}, {
+  "name" : "bidoof",
+  "abilities" : [ "simple", "unaware", "moody" ],
+  "createdAt" : "2026-02-13T00:24:58.141819078-03:00"
+}, {
+  "name" : "deoxys-normal",
+  "abilities" : [ "pressure" ],
+  "createdAt" : "2026-02-13T00:24:58.733338362-03:00"
+} ]

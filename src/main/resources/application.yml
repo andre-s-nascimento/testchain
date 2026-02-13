@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+app:
+  output-dir: ./data  # onde salvar o JSON
+
+logging:
+  level:
+    root: INFO
+    br.com.andre.testchain: INFO

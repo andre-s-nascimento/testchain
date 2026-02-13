@@ -1,0 +1,41 @@
+[ {
+  "name" : "golett",
+  "abilities" : [ "iron-fist", "klutz", "no-guard" ],
+  "createdAt" : "2026-02-13T06:56:49.596048465-03:00"
+}, {
+  "name" : "venonat",
+  "abilities" : [ "compound-eyes", "tinted-lens", "run-away" ],
+  "createdAt" : "2026-02-13T06:56:50.617453175-03:00"
+}, {
+  "name" : "celesteela",
+  "abilities" : [ "beast-boost" ],
+  "createdAt" : "2026-02-13T06:56:50.885704944-03:00"
+}, {
+  "name" : "tapu-bulu",
+  "abilities" : [ "grassy-surge", "telepathy" ],
+  "createdAt" : "2026-02-13T06:56:51.185744052-03:00"
+}, {
+  "name" : "thwackey",
+  "abilities" : [ "overgrow", "grassy-surge" ],
+  "createdAt" : "2026-02-13T06:56:51.479446532-03:00"
+}, {
+  "name" : "shroomish",
+  "abilities" : [ "effect-spore", "poison-heal", "quick-feet" ],
+  "createdAt" : "2026-02-13T06:56:51.871168603-03:00"
+}, {
+  "name" : "timburr",
+  "abilities" : [ "guts", "sheer-force", "iron-fist" ],
+  "createdAt" : "2026-02-13T06:56:52.953672738-03:00"
+}, {
+  "name" : "vigoroth",
+  "abilities" : [ "vital-spirit" ],
+  "createdAt" : "2026-02-13T06:56:54.238139454-03:00"
+}, {
+  "name" : "pikachu-unova-cap",
+  "abilities" : [ "static", "lightning-rod" ],
+  "createdAt" : "2026-02-13T06:56:54.662122931-03:00"
+}, {
+  "name" : "bonsly",
+  "abilities" : [ "sturdy", "rock-head", "rattled" ],
+  "createdAt" : "2026-02-13T06:56:55.086809933-03:00"
+} ]
